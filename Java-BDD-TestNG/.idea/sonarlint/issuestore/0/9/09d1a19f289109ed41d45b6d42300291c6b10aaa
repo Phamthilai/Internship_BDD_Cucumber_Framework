@@ -1,0 +1,5 @@
+
+Usquid:S1155p">Use isEmpty() to check whether the collection is empty or not.(È±â—
+csquid:S00112g"FDefine and throw a dedicated exception instead of using a generic one.(Âı­Ÿüÿÿÿÿ
+msquid:S1192"QDefine a constant instead of duplicating this literal "[Assert Fail] - " 8 times.(ê–Åüÿÿÿÿ
+]squid:S00112q"FDefine and throw a dedicated exception instead of using a generic one.(˜³Ù

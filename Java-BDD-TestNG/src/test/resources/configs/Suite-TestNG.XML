@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Cucumber Runner">
+    <test name="testngTest">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="platform" value="Windows 10"/>
+        <parameter name="environment" value="Local"/>
+        <classes>
+            <class name="runner.TestRunner" />
+        </classes>
+    </test>
+</suite>

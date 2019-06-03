@@ -1,0 +1,10 @@
+
+Ysquid:S1126Ä"AReplace this if-then-else statement by a single return statement.(äáØà
+\squid:UselessImportCheck"8Remove this unused import 'cucumber.api.java.en_old.Ac'.(©ÄŒ
+_squid:CallToDeprecatedMethod’"1Remove this use of "Locatable"; it is deprecated.(»ÀÖµıÿÿÿÿ
+^squid:S2142 "FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+@squid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheckŒ"qRemove the declaration of thrown exception 'org.openqa.selenium.WebDriverException' which is a runtime exception.(å”¢Ò
+Bsquid:S1168\"+Return an empty collection instead of null.(¥¹ï
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ¯ıÏüÿÿÿÿ
+2squid:S1700"Rename field "element"(ù¬»øÿÿÿÿ

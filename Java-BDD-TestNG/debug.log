@@ -1,0 +1,6 @@
+[1217/134801.580:ERROR:file_io_win.cc(161)] CreateFile C:\Users\hongle\AppData\Local\Temp\scoped_dir45880_15320\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[1217/134801.582:ERROR:file_io_win.cc(170)] CreateFile C:\Users\hongle\AppData\Local\Temp\scoped_dir45880_15320\Crashpad\reports\26bb8845-dda1-47bf-ad85-58872770d0cc.dmp: The system cannot find the path specified. (0x3)
+[1217/134801.582:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0108/125227.772:ERROR:file_io_win.cc(161)] CreateFile C:\Users\hongle\AppData\Local\Temp\scoped_dir203928_8883\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0108/125227.773:ERROR:file_io_win.cc(170)] CreateFile C:\Users\hongle\AppData\Local\Temp\scoped_dir203928_8883\Crashpad\reports\61c8e9bf-c5bb-4317-81d3-f3fe1dc69a57.dmp: The system cannot find the path specified. (0x3)
+[0108/125227.774:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed

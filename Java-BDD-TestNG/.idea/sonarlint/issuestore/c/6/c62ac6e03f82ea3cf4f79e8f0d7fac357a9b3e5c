@@ -1,0 +1,33 @@
+
+bsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ïÏ‡Ÿ
+Jsquid:S1199‚"-Extract this nested code block into a method.(Í¿‚‰úÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğş˜Ô
+Psquid:S1068"4Remove this unused "IMPLICIT_TIMEOUT" private field.(âÑÛÅûÿÿÿÿ
+hsquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(ïÓÜ÷ûÿÿÿÿ
+Isquid:S1199g"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+asquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(‘š+
+Jsquid:S1199¢"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+Jsquid:S1199˜"-Extract this nested code block into a method.(Í¿‚‰úÿÿÿÿ
+gsquid:CommentedOutCodeLineZ"<This block of commented-out lines of code should be removed.(¹ø´‡úÿÿÿÿ
+Esquid:S1199“"-Extract this nested code block into a method.(ğÂáõ
+Dsquid:S1199b"-Extract this nested code block into a method.(ß®Ùƒ
+^squid:S2142Ö"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+gsquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(ÙÉ˜éşÿÿÿÿ
+Dsquid:S1199}"-Extract this nested code block into a method.(ğÂáõ
+csquid:S1192]"GDefine a constant instead of duplicating this literal "chrome" 3 times.(Í¿‚‰úÿÿÿÿ
+ˆsquid:S1192^"lDefine a constant instead of duplicating this literal "src/main/resources/drivers/chromedriver.exe" 4 times.(ÓÏ«Îûÿÿÿÿ
+tsquid:S1192^"XDefine a constant instead of duplicating this literal "webdriver.chrome.driver" 6 times.(ÓÏ«Îûÿÿÿÿ
+Esquid:S1199‡"-Extract this nested code block into a method.(ß®Ùƒ
+ssquid:S1192X"WDefine a constant instead of duplicating this literal "webdriver.gecko.driver" 3 times.(âêı¤ıÿÿÿÿ
+O
+squid:S106y"9Replace this use of System.out or System.err by a logger.(®¡¤¾
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹ÆÔ
+Dsquid:S1199W"-Extract this nested code block into a method.(ğÂáõ
+Jsquid:S1199Œ"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
+Esquid:S1199"-Extract this nested code block into a method.(ß®Ùƒ
+_squid:S1192W"HDefine a constant instead of duplicating this literal "firefox" 3 times.(ğÂáõ
+Csquid:S1068"'Remove this unused "log" private field.(ç°Ô€øÿÿÿÿ
+Jsquid:S1068"3Remove this unused "sessionPlatform" private field.(âÍ†ˆ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(âÍ†ˆ
+Isquid:S1199]"-Extract this nested code block into a method.(Í¿‚‰úÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­º‹
